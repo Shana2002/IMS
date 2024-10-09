@@ -1,6 +1,6 @@
 # Inventory Management and Billing System
 
-This Inventory Management and Billing System is a comprehensive application built using Python GUI, specifically designed for [Company Name]. It streamlines inventory management and facilitates billing processes, providing robust features for managing customer relationships, stock, and financial transactions.
+This Inventory Management and Billing System is a comprehensive application built using Python GUI, specifically designed for Thushara Photo Framing. It streamlines inventory management and facilitates billing processes, providing robust features for managing customer relationships, stock, and financial transactions.
 ## Main Features
 
 - **Billing**: Easily process sales transactions and generate bills for customers.
