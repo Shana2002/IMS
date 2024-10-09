@@ -32,7 +32,15 @@
    ```bash
       pip install -r requirements.txt
       ```
+## 📸 ScreenShot
+   **Home Page**
+   ![alt text](https://github.com/Shana2002/galleryCafe/blob/master/images/screenshot/menuss.png?raw=true)
 
+   **Menu Page**
+      ![alt text](https://github.com/Shana2002/galleryCafe/blob/master/images/screenshot/menuss.png) 
+
+   **Admin Dashboard**
+      ![alt text](https://github.com/Shana2002/galleryCafe/blob/master/images/screenshot/dashboard.png?raw=true)
 ## Usage
 
 Run application with following command:
