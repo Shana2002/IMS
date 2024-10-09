@@ -33,14 +33,12 @@
       pip install -r requirements.txt
       ```
 ## 📸 ScreenShot
-   **Home Page**
-   ![alt text](https://github.com/Shana2002/galleryCafe/blob/master/images/screenshot/menuss.png?raw=true)
+   **Dashboard**
+   ![alt text](https://github.com/Shana2002/IMS/blob/master/Screenshot/Documents/ss1.png?raw=true)
 
-   **Menu Page**
-      ![alt text](https://github.com/Shana2002/galleryCafe/blob/master/images/screenshot/menuss.png) 
+   **Billing Area**
+      ![alt text](https://github.com/Shana2002/IMS/blob/master/Screenshot/Documents/ss2.png?raw=true) 
 
-   **Admin Dashboard**
-      ![alt text](https://github.com/Shana2002/galleryCafe/blob/master/images/screenshot/dashboard.png?raw=true)
 ## Usage
 
 Run application with following command:
