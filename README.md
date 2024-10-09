@@ -1,6 +1,6 @@
 # Inventory Management and Billing System
 
-This Inventory Management and Billing System is a comprehensive application built using Python GUI. It is designed to streamline inventory management, facilitate billing processes, and provide robust features for managing customer relationships, stock, and financial transactions.
+"This Python GUI-based Inventory Management and Billing System streamlines inventory operations and billing processes. It includes key features such as billing, customer loan tracking, stock management, product and category management, customer and employee record keeping, transaction history viewing, stock transfers, and total asset calculation. Additionally, it generates Excel sheets for bills and stock reports and uses an SQLite database for efficient data storage and retrieval."
 
 ## Main Features
 
