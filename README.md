@@ -34,10 +34,10 @@
       ```
 ## 📸 ScreenShot
    **Dashboard**
-   ![alt text](https://github.com/Shana2002/IMS/blob/master/Screenshot/Documents/ss1.png?raw=true)
+   ![alt text](https://github.com/Shana2002/IMS/blob/master/Screenshot/ss1.png?raw=true)
 
    **Billing Area**
-      ![alt text](https://github.com/Shana2002/IMS/blob/master/Screenshot/Documents/ss2.png?raw=true) 
+      ![alt text](https://github.com/Shana2002/IMS/blob/master/Screenshot/ss2.png?raw=true) 
 
 ## Usage
 
